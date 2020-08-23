@@ -29,6 +29,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* Sections */
+
+.coloured-background {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-background {
+    background-color: white;
+}
+
+
 /* Navigation Bar */
 
 .navbar {
@@ -55,14 +67,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Title Section */
 
-#title {
-    background-color: #ff4c68;
-    color: white;
-    text-align: left;
-}
-
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 
@@ -119,7 +126,6 @@ h1, h2, h3, h4, h5, h6 {
 /* Testimonials Section */
 #testimonials {
     background-color: #ef8172;
-    color: white;
 }
 
 
@@ -164,12 +170,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Call to Action */
 
-#cta {
-    background-color: #ff4c68;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    color: white;
-}
 
 /* Footer */
 
