@@ -54,7 +54,7 @@ h2 {
 /* Download Buttons */
 
 .download-button {
-    font-weight: 300;
+    font-weight: 600;
     margin: 5% 3% 5% 0;
 }
 
@@ -157,14 +157,9 @@ h2 {
 
 #cta h3 {
     font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
-
-.download-button-cta {
-    font-weight: 300;
-    margin-top: 2%;
-    margin-left: 2%;
-}
-
 
 /* Footer */
 
@@ -179,16 +174,8 @@ h2 {
     margin-top: 10px;
 }
 
-.fa-twitter {
-    margin-right: 20px;
-}
-
-.fa-facebook-f {
-    margin-right: 20px;
-}
-
-.fa-instagram {
-    margin-right: 20px;
+.footer-icon {
+    margin: 20px 10px;
 }
 
 /* Media Queries */
